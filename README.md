@@ -1,0 +1,1 @@
+A simple sign-in and sign-up form using JavaScript and Fragments, divide the forms into two parts: one for sign-in and one for sign-up. Use JavaScript to switch between them when the user clicks "Sign In" or "Sign Up." After registration, show a success page with a button to return to the form.
